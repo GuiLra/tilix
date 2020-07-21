@@ -1,4 +1,4 @@
-[###](###) [Tilix](https://gnunn1.github.io/tilix-web/)  
+# [Tilix](https://gnunn1.github.io/tilix-web/)  
 
 #### Install using config file
 
