@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://gnunn1.github.io/tilix-web/">X</a>
+  Omni for <a href="https://gnunn1.github.io/tilix-web/">Tilix</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://gnunn1.github.io/tilix-web/">X</a></strong>
+  <strong>Dark theme for <a href="https://gnunn1.github.io/tilix-web/">Tilix</a></strong>
 </p>
 
 <p align="center">
