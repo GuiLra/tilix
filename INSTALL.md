@@ -5,7 +5,7 @@
 Clone this repo
  
 ```sh
-git clone https://github.com/GuiLra/tilix-omni ~/tilix
+git clone https://github.com/GuiLra/tilix
 ```
 
 Copy `Omni.json` under `~/.config/tilix/schemes` (first create directory if not exist)
